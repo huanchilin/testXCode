@@ -183,7 +183,7 @@ int main(int argc, const char * argv[]) {
     node1->left = node3;
     node2->left = node4;
     
-    bool ans = isSymmetric(root);
+    bool anss = isSymmetric(root);
     
     return 0;
 }
